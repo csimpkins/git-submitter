@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project name="Submission Tool" default="jar" basedir=".">
-    <property name="src" value="src"/>
+    <property name="src" value="src/main/java"/>
     <property name="bin" value="bin"/>
     <property name="lib" value="lib"/>
     <property name="jar" value="submit.jar"/>
     <property name="gson" value="${lib}/gson-2.3.1.jar"/>
-    <property name="main-class" value="Application"/>
+    <property name="main-class" value="org.cs1331.gitsubmit.Application"/>
 
     <path id="classpath">
         <fileset dir="${lib}" includes="**/*.jar"/>

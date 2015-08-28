@@ -1,3 +1,5 @@
+package org.cs1331.gitsubmit;
+
 import java.net.URL;
 import java.net.MalformedURLException;
 

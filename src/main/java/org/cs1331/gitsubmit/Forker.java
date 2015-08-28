@@ -1,3 +1,5 @@
+package org.cs1331.gitsubmit;
+
 import java.util.Scanner;
 import java.io.File;
 import javax.swing.JPasswordField;
